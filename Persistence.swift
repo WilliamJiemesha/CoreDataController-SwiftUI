@@ -1,3 +1,4 @@
+// Credit to : Clarence (http://github.com/theodorusclarence)
 import CoreData
 
 struct PersistenceController {
