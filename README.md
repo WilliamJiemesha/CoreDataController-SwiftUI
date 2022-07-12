@@ -12,9 +12,9 @@
 ###### - Step 4: Create a variable holding CoreDataController and pass context as parameter, then you can use the controller to access your core data.
 
 ## How to use:
-### (CoreDataVariable).first?.value(forKey: "(column/attribute name")) as (Data Type)
+##### (CoreDataVariable).first?.value(forKey: "(column/attribute name")) as (Data Type)
 
-## OR if many data:
-### for items in (CoreDataVariable){
-###   print(items.value(forKey: "(column/attribute name")) as (Data Type)  
-### }
+### OR if many data:
+##### for items in (CoreDataVariable){
+#####   print(items.value(forKey: "(column/attribute name")) as (Data Type)  
+##### }
